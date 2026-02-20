@@ -24,7 +24,7 @@ Este projeto simula a análise de desempenho de uma empresa de manutenção de e
 	•	Análise de garantias
 	•	Cálculo de margem e volume de serviços
 
-(Depois você pode colocar um print do SQL aqui ou trecho do código)
+![Veja aqui](Codigo_SQL.csv)
 
 
 2️⃣ Exploração e análise (Python)

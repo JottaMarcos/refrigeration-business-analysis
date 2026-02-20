@@ -4,7 +4,7 @@ Projeto desenvolvido com foco em análise estratégica, rentabilidade e apoio à
 
 Este projeto simula a análise de desempenho de uma empresa de manutenção de equipamentos de refrigeração, utilizando SQL, Python e Power BI para transformar dados operacionais em insights estratégicos.
 
-[DASHBOARD FROSTTECH]("DASHBOARD FROSTTECH.png")
+[DASHBOARD FROSTTECH](DASHBOARD_FROSTTECH.png)
 ⸻
 
 🎯 Objetivo do Projeto

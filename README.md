@@ -33,7 +33,7 @@ Este projeto simula a análise de desempenho de uma empresa de manutenção de e
 	•	Cálculo de métricas financeiras
 	•	Visualização preliminar
 
-Veja aqui: (Colab_Analysis.ipynb)
+![Veja aqui](Colab_Analysis.ipynb)
 
 3️⃣ Visualização estratégica (Power BI)
 	•	Dashboard financeiro

@@ -15,7 +15,6 @@ Este projeto simula a análise de desempenho de uma empresa de manutenção de e
 	•	Detectar sazonalidade nos serviços
 	•	Avaliar performance dos técnicos
 
-⸻
 
 🛠 Etapas do Projeto
 
@@ -27,7 +26,6 @@ Este projeto simula a análise de desempenho de uma empresa de manutenção de e
 
 (Depois você pode colocar um print do SQL aqui ou trecho do código)
 
-⸻
 
 2️⃣ Exploração e análise (Python)
 	•	Limpeza de dados
@@ -37,11 +35,16 @@ Este projeto simula a análise de desempenho de uma empresa de manutenção de e
 
 (Coloque print do notebook ou trecho de código Python aqui)
 
-⸻
-
 3️⃣ Visualização estratégica (Power BI)
 	•	Dashboard financeiro
 	•	Análise temporal
 	•	Margem por produto
 	•	Garantias por técnico
 	•	Comparação entre tipos de cliente
+
+📊 Principais Insights
+	•	A taxa de garantia varia por período e produto
+	•	Freezer apresenta maior margem de lucro
+	•	Ar-condicionado possui picos sazonais de garantia
+	•	Clientes comerciais possuem comportamento distinto dos residenciais
+	•	Garantias impactam diretamente na rentabilidade operacional

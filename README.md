@@ -42,4 +42,4 @@ Este projeto simula a análise de desempenho de uma empresa de manutenção de e
 	•	Clientes comerciais possuem comportamento distinto dos residenciais
 	•	Garantias impactam diretamente na rentabilidade operacional
 
-![Dataset](
+![Dataset](servicos_refrigeracao.csv)

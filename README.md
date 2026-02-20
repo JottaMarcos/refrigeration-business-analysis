@@ -4,9 +4,6 @@ Projeto desenvolvido com foco em análise estratégica, rentabilidade e apoio à
 
 Este projeto simula a análise de desempenho de uma empresa de manutenção de equipamentos de refrigeração, utilizando SQL, Python e Power BI para transformar dados operacionais em insights estratégicos.
 
-![dashboard](DASHBOARD_FROSTTECH.png)
-
-
 🎯 Objetivo do Projeto
 	•	Avaliar faturamento, despesas e lucro líquido
 	•	Identificar produtos mais rentáveis
@@ -41,6 +38,7 @@ Este projeto simula a análise de desempenho de uma empresa de manutenção de e
 	•	Margem por produto
 	•	Garantias por técnico
 	•	Comparação entre tipos de cliente
+![dashboard](DASHBOARD_FROSTTECH.png)
 
 📊 Principais Insights
 	•	A taxa de garantia varia por período e produto
@@ -48,3 +46,5 @@ Este projeto simula a análise de desempenho de uma empresa de manutenção de e
 	•	Ar-condicionado possui picos sazonais de garantia
 	•	Clientes comerciais possuem comportamento distinto dos residenciais
 	•	Garantias impactam diretamente na rentabilidade operacional
+
+![Dataset](
